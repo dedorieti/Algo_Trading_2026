@@ -1,1 +1,1 @@
-# Main process
+# The entry point (runs the loop)
